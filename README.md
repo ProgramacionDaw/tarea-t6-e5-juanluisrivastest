@@ -5,3 +5,5 @@ En este ejercicio teneis que crear una clase....os dejo el código inicial como 
 
 
 YA HE TERMINADO LA PRACTICA
+
+Ya si
